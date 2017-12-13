@@ -82,3 +82,9 @@ $(document).ready(function() {
 });
 ```
 In essence, whenever the extension is enabled, once the page is loaded (all of its elements), the progress bar is removed from the page. In surprisingly little code, a user can be granted more freedom in what designs they are exposed to, which can then influence their behavior and how they share their data with other people and organizations.
+
+## Contributing
+
+Right now this is a tiny project with only two use-cases, but it has potential to be more. Organizations should be dissuaded from using coercive design elements; while I am not delusional in thinking this project will take off and become something huge, I do see potential application elsewhere, and would love for this to be a starter extension that expands into different domains, and starts covering different sorts of HTML elements.
+
+Anybody is welcome to contribute to the project, just be sure to stop by the [Code of Conduct](https://github.com/ckhoward/FIXBUX/blob/master/CODE_OF_CONDUCT.md) page to get an idea of the groundrules. Otherwise, happy contributing.
